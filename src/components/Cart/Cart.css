@@ -1,0 +1,23 @@
+.cart {
+    background-color: #FFE0B3;
+    padding: 25px;
+    position: sticky;
+    top: 0;
+}
+
+.cart p {
+    font-size: 17px;
+}
+
+.btn-clear-cart{
+    width: 95%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    background-color: #FF3030;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
